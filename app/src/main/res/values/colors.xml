@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="green">#4CAF50</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#f7f7ff</color>
+    <color name="grey">#A9A9A9</color>
+    <color name="lightGrey">#72D1D1D1</color>
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="darkGrey">#595858</color>
+    <color name="alertRed">#ff3366</color>
+
+
+    <color name="darkBlue">#495867</color>
+    <color name="blue">#577399</color>
+    <color name="lightBlue">#bdd5ea</color>
+
+    <color name="transparentGrey">#05A9A9A9</color>
+
+    //khac
+    <color name="dayPressed">@color/colorPrimaryDark</color>
+    <color name="daySelected">@color/colorPrimary</color>
+    <color name="daySelectedTextColor">@android:color/white</color>
+    <color name="dayDeselected">#FAFAFA</color>
+    <color name="dayDeselectedTextColor">@android:color/black</color>
+
+    <!-- Customizing colors for disabled days-->
+    <color name="daySelectedAndDisabled">#43444F</color>
+    <color name="daySelectedAndDisabledTextColor">@color/daySelectedTextColor</color>
+    <color name="dayDeselectedAndDisabled">@color/dayDeselected</color>
+    <color name="dayDeselectedAndDisabledTextColor">@android:color/darker_gray</color>
+
+
+
+
+
+</resources>
