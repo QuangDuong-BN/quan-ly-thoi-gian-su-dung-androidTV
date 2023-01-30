@@ -28,6 +28,7 @@ Màn hình theo dõi thời gian hoạt động của các ứng dụng.
 ![alt](https://github.com/QuangDuong-BN/LamDe/blob/main/timeUse.png)
 
 Màn hình about.
+
 ![alt](https://github.com/QuangDuong-BN/LamDe/blob/main/about.png)
 
 Màn hình yêu cầu mật khẩu khi cài vào ứng dụng khi vào ứng dụng.
