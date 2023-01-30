@@ -1,43 +1,42 @@
-#                                                      AppBlockr
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php) 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/diyarfaraj/AppBlockr/main/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" height=100/>
-</p>
+#                                                      Quan-Ly-Thoi-Gian-Su-Dung-androidTV
 
-<p align="center">
-AppBlockr simple app blocker made for Android only. Block any apps on your phone, to focus on important work.
-</p>
+## Dành cho các thiết bị chạy androidTV từ phiên bản 11 trở lên.
 
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.robocora.appblockr">Download</a>
-<p>
-
-## What problems does AppBlockr solve?
-- Phone addiction
-- Focus on important work
-- Free from distractions
-- Peace of mind
-
+## Chức năng
+  + Khóa app theo thời gian do người dùng ấn định.
+  + Hiển thị thời gian sử dụng của từng ứng dụng trong 24h.
+  
+  
 ## Powered by
 -  Java
 -  XML
 -  Android Studio
 
-## Todo
-See [TODO](https://github.com/diyarfaraj/AppBlockr/issues/5)
-
-## Contributors
--  @diyarfaraj
-
 ## Screenshots
 
-![Capture](https://user-images.githubusercontent.com/48604250/128560590-7754449a-f84a-49a3-b912-0bcc8ba4d72d.PNG)
+Màn hình hiển thị các ứng dụng đang có trên thiết bị.
 
-## Promo
+![alt](https://github.com/QuangDuong-BN/LamDe/blob/main/viewallApp.png)
 
-https://user-images.githubusercontent.com/48604250/128561556-fc53d140-d81f-4a12-9893-7c8a083c5a40.mp4
+Màn hình danh sách các ứng dụng bị khóa.
+
+![alt](https://github.com/QuangDuong-BN/LamDe/blob/main/viewAppBlock.png)
+
+Màn hình theo dõi thời gian hoạt động của các ứng dụng.
+
+![alt](https://github.com/QuangDuong-BN/LamDe/blob/main/timeUse.png)
+
+Màn hình about.
+![alt](https://github.com/QuangDuong-BN/LamDe/blob/main/about.png)
+
+Màn hình yêu cầu mật khẩu khi cài vào ứng dụng khi vào ứng dụng.
+
+![alt](https://github.com/QuangDuong-BN/LamDe/blob/main/login.png)
+![alt](https://github.com/QuangDuong-BN/LamDe/blob/main/changePassword.png)
+
+
+
 
 
 
