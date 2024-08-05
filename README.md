@@ -17,24 +17,24 @@
 
 Màn hình hiển thị các ứng dụng đang có trên thiết bị.
 
-![alt](https://github.com/QuangDuong-BN/LamDe/blob/main/viewallApp.png)
+![alt](https://github.com/QuangDuong-BN/quan-ly-thoi-gian-su-dung-androidTV/blob/main/image/viewallApp.png)
 
 Màn hình danh sách các ứng dụng bị khóa.
 
-![alt](https://github.com/QuangDuong-BN/LamDe/blob/main/viewAppBlock.png)
+![alt](https://github.com/QuangDuong-BN/quan-ly-thoi-gian-su-dung-androidTV/blob/main/image/viewAppBlock.png)
 
 Màn hình theo dõi thời gian hoạt động của các ứng dụng.
 
-![alt](https://github.com/QuangDuong-BN/LamDe/blob/main/timeUse.png)
+![alt](https://github.com/QuangDuong-BN/quan-ly-thoi-gian-su-dung-androidTV/blob/main/image/timeUse.png)
 
 Màn hình about.
 
-![alt](https://github.com/QuangDuong-BN/LamDe/blob/main/about.png)
+![alt](https://github.com/QuangDuong-BN/quan-ly-thoi-gian-su-dung-androidTV/blob/main/image/about.png)
 
 Màn hình yêu cầu mật khẩu khi cài vào ứng dụng khi vào ứng dụng.
 
-![alt](https://github.com/QuangDuong-BN/LamDe/blob/main/login.png)
-![alt](https://github.com/QuangDuong-BN/LamDe/blob/main/changePassword.png)
+![alt](https://github.com/QuangDuong-BN/quan-ly-thoi-gian-su-dung-androidTV/blob/main/image/login.png)
+![alt](https://github.com/QuangDuong-BN/quan-ly-thoi-gian-su-dung-androidTV/blob/main/image/changePassword.png)
 
 
 
